@@ -9,4 +9,4 @@ def fusionner_dicts(dict1, dict2):
 # Tests
 dict1 = {"x": 1, "y": 2}
 dict2 = {"y": 3, "z": 4}
-print(fusionner_dicts(dict1, dict2));
+print(fusionner_dicts(dict1, dict2))
