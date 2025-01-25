@@ -1,0 +1,6 @@
+& C:/Users/DELL-PC/AppData/Local/Programs/Python/Python312/python.exe c:/Users/DELL-PC/Desktop/TP-python/TP5/ex3.py
+y
+y
+& C:/Users/DELL-PC/AppData/Local/Programs/Python/Python312/python.exe c:/Users/DELL-PC/Desktop/TP-python/TP5/ex3.py
+y
+y
